@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    position: relative; 
+    background-color: rgb(238, 190, 15); 
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Norwester';
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+#main {
+    position: relative;
+    text-align: center;
+    padding-top: 10rem;
+    font-size: 3rem;
+    font-family: 'Montserrat';
+}
+
+#suggestion {
+    position: relative;
+    display: block;
+    color: rgb(10, 35, 133);
+    font-size: 3rem;
+    font-weight: bold;
+    text-decoration: none;
+    padding-bottom: 5rem;
+}
+
+#button {
+    background-color: rgb(238, 190, 15);
+    border: solid 4px;
+    padding: 16px 16px;
+    text-align: center;
+    text-decoration: solid;
+    display: inline-block;
+    font-family: 'Courier New';
+    font-size: 1rem;
+    border-radius: 1rem;
+    width: 10rem;
+    height: 7rem;
+}
