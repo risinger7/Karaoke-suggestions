@@ -35,6 +35,7 @@ h1 {
 #button {
     background-color: rgb(238, 190, 15);
     border: solid 4px;
+    border-color: rgb(0,0,0);
     padding: 16px 16px;
     text-align: center;
     text-decoration: solid;
